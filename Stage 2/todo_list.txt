@@ -1,0 +1,9 @@
+data:::False
+code:::False
+Assignmrnt:::False
+75:::False
+100:::True
+95:::False
+85:::True
+55:::False
+65:::False
